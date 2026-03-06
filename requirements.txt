@@ -1,0 +1,6 @@
+ultralytics>=8.0.0
+opencv-python
+numpy
+
+# You may need to install a specific PyTorch build for your GPU/CPU.
+# See https://pytorch.org/get-started/locally/ and install torch/torchvision first if needed.
